@@ -1,0 +1,2 @@
+# Linked-Lists
+This is a project that is divided into two problems and each problem is solved using a linked list. In the first problem, the user has to generate ten random numbers and perform and insertion sort on a linked list. The second problem, the user has to shuffle a deck of 52 playing cards. Each card is a node in a linked list and the shuffling has to be performed as efficiently as possible.
